@@ -6,7 +6,8 @@
 * （4）执行"split_data.py"脚本自动将数据集划分成训练集train和验证集val    
 
 ```
-├── data_ori   
-       ├── flower_photos（解压的数据集文件夹，3670个样本）  
-       ├── train（生成的训练集，3306个样本）  
-       └── val（生成的验证集，364个样本） 
+|──dataset  
+          ├── data_ori   
+                      ├── flower_photos（解压的数据集文件夹，3670个样本）  
+                      ├── train（生成的训练集，3306个样本）  
+                      └── val（生成的验证集，364个样本） 
