@@ -29,6 +29,10 @@
     * [VggNet网络讲解](https://blog.csdn.net/AugustMe/article/details/108519132)
     * [Pytorch搭建VGG网络](https://blog.csdn.net/AugustMe/article/details/108519132)  
 
+  * GoogLeNet
+    * [GoogLeNet网络讲解](https://blog.csdn.net/AugustMe/article/details/108518288)
+    * [Pytorch搭建GoogLeNet网络](https://blog.csdn.net/AugustMe/article/details/1085182882)  
+
  ## 参考
 
 https://github.com/WZMIAOMIAO/deep-learning-for-image-processing   
