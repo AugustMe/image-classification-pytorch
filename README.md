@@ -13,7 +13,9 @@
  ## 训练自己的数据集
  
  1. 根据要求整理dataset
- 2. 用alexnet、vggnet（或者其他网络）中的train.py进行模型训练
+ 2. 修改json中的类别
+ 3. 用alexnet、vggnet（或者其他网络）中的train.py进行模型训练
+ 4. 用predict.py预测新的图片
 
 
 
