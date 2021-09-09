@@ -10,6 +10,13 @@
 * matplotlib 3.3.4 (pip package)
 * tqdm 4.48.0 (pip package)
 
+ ## 训练自己的数据集
+ 
+ 1. 根据要求整理dataset
+ 2. 用alexnet、vggnet（或者其他网络）中的train.py进行模型训练
+
+
+
  ## 已经完成的网络
  
  * AlexNet
