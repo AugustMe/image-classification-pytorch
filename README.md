@@ -33,6 +33,10 @@
     * [GoogLeNet网络讲解](https://blog.csdn.net/AugustMe/article/details/108518288)
     * [Pytorch搭建GoogLeNet网络](https://blog.csdn.net/AugustMe/article/details/1085182882)  
 
+  * ResNet
+    * [ResNet网络讲解](https://blog.csdn.net/AugustMe/article/details/111910486)
+    * [Pytorch搭建ResNet网络](https://blog.csdn.net/AugustMe/article/details/111910486)  
+
  ## 参考
 
 https://github.com/WZMIAOMIAO/deep-learning-for-image-processing   
